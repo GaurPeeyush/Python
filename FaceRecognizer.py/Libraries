@@ -1,0 +1,10 @@
+Here is a list of the libraries that I installed: 
+    cmake, face_recognition, numpy, opencv-python.
+Install the libraries in one line using PIP library manager:
+    pip install cmake face_recognition numpy opencv-python
+Import the libraries into the code editor:
+    import face_recognition
+    import cv2
+    import numpy as np
+    import os
+    import glob
